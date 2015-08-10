@@ -64,7 +64,7 @@ class SiteController extends Controller {
             throw new CHttpException(500, "This application requires that PHP was compiled with Blowfish support for crypt().");
         $locker = new Dctest();
         $model = $locker->needCaptcha()==true? new LoginForm('captchaRequired') : new LoginForm;
-        $model =new LoginForm;
+       
        
         // if it is ajax validation request
         if (isset($_POST['ajax']) && $_POST['ajax'] === 'login-form') {
