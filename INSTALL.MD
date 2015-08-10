@@ -15,6 +15,7 @@ Install
 
 
 ++ Redis caching falied attempts and compare from there the attempts
+
 ++ Cookie based attempt validations as fallback
 
 
