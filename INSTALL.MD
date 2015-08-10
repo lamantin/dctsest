@@ -1,9 +1,11 @@
 simple test application 
 
-reuqierments : 
+requierments : 
 
 Smtp server on localhost ( like postfix or other )
+
 MYSQL server with database called dc_test
+
 webserver like apache2 or nginx
 
 
