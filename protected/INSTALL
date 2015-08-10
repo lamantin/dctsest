@@ -1,0 +1,11 @@
+test application install :
+
+requirements : 
+
+-mysql database engine with dc_test database 
+-php 5.3 ++
+
+install
+- copy to files to webserver folder
+- import mysql dump files from sql folder 
+
