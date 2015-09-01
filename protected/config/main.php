@@ -2,7 +2,7 @@
 
 return array(
     'basePath' => dirname(__FILE__) . DIRECTORY_SEPARATOR . '..',
-    'name' => 'Docler Test application',
+    'name' => ' Test application',
     'preload' => array('log'),
     'import' => array(
         'application.models.*',
