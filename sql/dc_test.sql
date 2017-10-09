@@ -1,4 +1,4 @@
--- phpMyAdmin SQL Dump
+
 -- version 3.4.10.1deb1
 -- http://www.phpmyadmin.net
 --
@@ -91,7 +91,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id`, `username`, `password`, `email`, `lastlogin`, `verified`) VALUES
-(2, 'tester', '2e33a9b0b06aa0a01ede70995674ee23', 'istvan.makai@gmail.com', '2015-08-09 21:52:03', 0);
+(2, 'tester', 'mmm', 'istvan.makai@gmail.com', '2015-08-09 21:52:03', 0);
 
 -- --------------------------------------------------------
 
