@@ -1,6 +1,5 @@
 
 -- version 3.4.10.1deb1
--- http://www.phpmyadmin.net
 --
 -- Host: localhost
 -- Generation Time: Aug 10, 2015 at 10:43 AM
